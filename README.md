@@ -7,7 +7,7 @@ See specific folders for respective grammar, orthography/alphabet and other stuf
 ## Roadmap
 
 - [ ] Lettering/Writing System
-	- [ ] Orthography
+	- [X] Orthography
  	- [ ] Punctuation
  - [ ] Grammar
  	- [ ] Word Order
