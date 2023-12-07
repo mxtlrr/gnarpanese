@@ -8,7 +8,7 @@ aren't many vowels that are used in Gnarpanese, but these are enough for complex
 |         | Bilabial | Labiodental | Dental | Alveolar | Alveopalatal | Palatal | Velar | Glottal |   Clusters   |
 |---------|----------|-------------|--------|----------|--------------|---------|-------|---------| ------------ |
 |Stop		  |	  p,b	   |		 	 	     |		 	 	| 	 t     |		          |		 	 	  |k, ɢ(g)|	 	 	 	  |			 				 |
-|Fricative|		 	 	   |		 	 	     |	θ (h) | 	 z     |		          |		 	 	  |		 	 	|	 	 	 	  |			 				 |
+|Fricative|		 	 	   |		 	 	     |	θ (h) | 	z,s    |		          |		 	 	  |		 	 	|	 	 	 	  |			 				 |
 |Affricate|		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			 				 |
 |Nasal	  |		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			  			 |
 |Liquid 	|		 	 	   |		 	 	     |		    | l, ɹ (ŕ) |		          |		 	 	  |		 	 	|	 	 	 	  |						   |
