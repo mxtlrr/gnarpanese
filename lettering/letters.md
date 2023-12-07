@@ -13,7 +13,7 @@ aren't many vowels that are used in Gnarpanese, but these are enough for complex
 |Nasal	  |		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			  			 |
 |Liquid 	|		 	 	   |		 	 	     |		    | l, ɹ (ŕ) |		          |		 	 	  |		 	 	|	 	 	 	  |						   |
 |Glide		|		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |		 		       |
-|Other    |																																												|   [e]ks(x)   |
+|Other    |					 |						 |				|					 |							|					|				|					|   [e]ks(x)   |
 
 *If a letter in the consonant grid is in parenthesis, that is what is being written. For example,*
 > "h" is pronouned /θ/
