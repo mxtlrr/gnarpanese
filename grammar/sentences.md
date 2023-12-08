@@ -20,3 +20,17 @@ would be -- in order:
 For example (using English),
 <!-- TODO: switch to gnarpanese for this example -->
 > Sam apple ate.
+
+
+## Zero Copula
+In Gnarpanese, there are no "linking" words, like
+> I *am a* cat
+
+The sentence above would be translated as
+> Gloobl gleeby.
+> 
+> /ɢlɔːbl ɢleːbeˑ/
+>
+> 1SG.NOM cat
+
+*assuming gleeby means cat*
