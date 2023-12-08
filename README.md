@@ -10,8 +10,8 @@ See specific folders for respective grammar, orthography/alphabet and other stuf
 	- [X] Orthography
  	- [ ] Punctuation
  - [ ] Grammar
- 	- [ ] Word Order
-	- [ ] Affixes
+ 	- [X] Word Order
+	- [X] Affixes
 	- [ ] Inflections
 	- [ ] Pronouns
 	- [ ] Sentence Structure

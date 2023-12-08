@@ -27,9 +27,15 @@ is used (/e/ is omitted)
 # Vowels
 
 ## Vowel Grid
-|					|   Front   | Central | Back |
-|---------| --------- | ------- | ---- |
-|Close	  |e(i), eˑ(y)|					|			 |
-|Close-mid|					  |					|			 |
-|Open-mid |						|					|	 	   |
-|Open	 	  |						|		 a 		|			 |
+|					|    Front    | Central | Back |
+|---------| ----------- | ------- | ---- |
+|Close	  |e(i&e),eˑ(y) |					|			 |
+|Close-mid|	 				    |					|	 ɔ(o)|
+|Open-mid |	  					|					|	 	   |
+|Open	 	  |						  |		 ɶ(a)	|			 |
+
+If a vowel is seen twice, e.g. in `Gloobl`, (only exception is /eˑ/), then the
+"long" supersegmental is added. For example,
+> Gloobl (/ɢlɔ**ː**bl/)
+
+does have that supersegmental after /ɔ/.
