@@ -27,7 +27,7 @@ In Gnarpanese, there are no "linking" words, like
 > I *am a* cat
 
 The sentence above would be translated as
-> Gloobl gleeby.
+> .Gloobl gleeby
 > 
 > /ɢlɔːbl ɢleːbeˑ/
 >
