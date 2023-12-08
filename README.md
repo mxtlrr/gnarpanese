@@ -6,13 +6,13 @@ See specific folders for respective grammar, orthography/alphabet and other stuf
 
 ## Roadmap
 
-- [ ] Lettering/Writing System
+- [X] Lettering/Writing System
 	- [X] Orthography
- 	- [ ] Punctuation
+ 	- [X] Punctuation
  - [ ] Grammar
  	- [X] Word Order
 	- [X] Affixes
 	- [ ] Inflections
-	- [ ] Pronouns
-	- [ ] Sentence Structure
+	- [X] Pronouns
+	- [X] Sentence Structure
 - [ ] Diction
