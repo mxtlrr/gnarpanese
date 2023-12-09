@@ -12,6 +12,7 @@ There are multiple suffixes, that, when added to a word,
 will classify said word as a noun. They are:
 - `-eble`
 - `-eby`
+- (sometimes) `-arp`
 
 *Examples of each:*
 <!-- examples when i'm able to form words -->
