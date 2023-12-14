@@ -3,4 +3,4 @@
 | Word | Meaning | Pronunciation |
 | ---- | ------- | ------------- |
 |Glorp | sleepy  |   /ɢlɔɹp/     |
-| Zorp | evil    |   /zɔɹp/      |
+| Zorb | evil    |   /zɔɹb/      |

@@ -7,8 +7,8 @@
 |  Pronoun  | Gnarpanese Equivalent | Sound (IPA) |
 | --------- | --------------------- | ----------- |
 |1st Person | Gloobl                |  /ɢlɔːbl/   |
-|2nd Person | Zloŕp                 |  /zlɔɹp/    |
-|3rd Person | Moŕb                  |  /mɔɹb/     |
+|2nd Person | Zlorp                 |  /zlɔɹp/    |
+|3rd Person | Morb                  |  /mɔɹb/     |
 
 ## Interrogative
 
@@ -17,5 +17,5 @@
 | Who                   | Glib                  | /ɢleb/      |
 | Whom                  | Gliby                 | /ɢlebeˑ/    |
 | Whose                 | Glibak                | /ɢlebɶk/    |
-| What                  | Zoŕp                  | /zɔɹp/      |
-| Which                 | Zoŕpl                 | /zɔɹpl/     |
+| What                  | Zorb                  | /zɔɹb/      |
+| Which                 | Zorbl                 | /zɔɹbl/     |
