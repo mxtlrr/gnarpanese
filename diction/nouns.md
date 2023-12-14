@@ -12,5 +12,5 @@ Gnarpanese
 
 |  Word  | Pronunciation (IPA) | Definition |
 | ------ | ------------------- | ---------- |
-|  Gnarp |      /ɢnɶŕp/        |small feline|
+|  Gnarp |      /ɢnɶɹp/        |small feline|
 | Gleeby |      /ɢleːbeˑ/      |   feline   |

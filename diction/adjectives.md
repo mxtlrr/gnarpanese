@@ -2,5 +2,5 @@
 
 | Word | Meaning | Pronunciation |
 | ---- | ------- | ------------- |
-|Glorp | sleepy  |   /ɢlɔŕp/     |
-
+|Glorp | sleepy  |   /ɢlɔɹp/     |
+| Zorp | evil    |   /zɔɹp/      |
