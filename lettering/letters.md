@@ -10,7 +10,7 @@ aren't many vowels that are used in Gnarpanese, but these are enough for complex
 |Stop		  |	  p,b	   |		 	 	     |		 	 	| 	 t     |		          |		 	 	  |k, ɢ(g)|	 	 	 	  |			 				 |
 |Fricative|		 	 	   |		 	 	     |	θ (h) | 	z,s    |		          |		 	 	  |		 	 	|	 	 	 	  |			 				 |
 |Affricate|		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			 				 |
-|Nasal	  |		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			  			 |
+|Nasal	  |	m,n	 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |			  			 |
 |Liquid 	|		 	 	   |		 	 	     |		    | l, ɹ (r) |		          |		 	 	  |		 	 	|	 	 	 	  |						   |
 |Glide		|		 	 	   |		 	 	     |		 	 	| 	 	     |		          |		 	 	  |		 	 	|	 	 	 	  |		 		       |
 |Other    |					 |						 |				|					 |							|					|				|					|   [e]ks(x)   |
