@@ -1,9 +1,9 @@
 <!-- Verbs I'm adding:
 
-[ ] To have
-[ ] To do
-[ ] To go
-[ ] To say
+[X] To have
+[X] To do
+[X] To go
+[X] To have
 [ ] To come
 [ ] To see
 [ ] To know
@@ -30,6 +30,6 @@
 | ---- | ------- | ----------------- |
 | Lon- | to be   | /lɔn/             |
 | Zo-  | to have | /zɔ/              |
-|      | to do   |
-|      | to go   |
+| Hal- | to do   | /θɶl/             |
+| Myn- | to go   | /meˑn/            |
 |      | to say  |
