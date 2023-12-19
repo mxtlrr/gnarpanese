@@ -11,16 +11,11 @@ Saying
 would be grammatically incorrect.
 
 ## Sentence Structure / Word Order
-Like Turkish, Gnarpanese is in the SOV word order. That is, the order of a sentence
+Like English, Gnarpanese is in the SVO word order. That is, the order of a sentence
 would be -- in order:
 1. Subject
-2. Object
 3. Verb
-
-For example (using English),
-<!-- TODO: switch to gnarpanese for this example -->
-> Sam apple ate.
-
+2. Object
 
 ## Zero Copula
 In Gnarpanese, there are no "linking" words, like
