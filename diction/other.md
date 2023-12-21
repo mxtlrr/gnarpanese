@@ -17,3 +17,16 @@ the categories in adjectives/nouns/verbs.
 | ---- | ------- | ----------------- |
 | Xoobl|  This   |  /eksoɔːbl/       |
 | Mool |  That   |  /mɔːl/           |
+
+### Possesive
+| Word | Meaning |
+| ---- |
+|      | My   |
+|      | Your |
+|      | Our  |
+|      | Their|
+<!-- plural i think ? -->
+|      |Its   |
+|      |Yours |
+|      |Ours  |
+|      |Theirs|
