@@ -19,14 +19,14 @@ the categories in adjectives/nouns/verbs.
 | Mool |  That   |  /mɔːl/           |
 
 ### Possesive
-| Word | Meaning |
-| ---- |
-|      | My   |
-|      | Your |
-|      | Our  |
-|      | Their|
+| Word | Meaning | IPA Transcription |
+| ---- | ------- | ----------------- |
+| Horb | My      | /θɔɹb/            |
+| Horba| Your    | /θɔɹbɶ/           |
+| Homk | Our     | /θɔmk/            |
+| Honga| Their   | /θɔnɢɶ/          |
 <!-- plural i think ? -->
-|      |Its   |
-|      |Yours |
-|      |Ours  |
-|      |Theirs|
+| Ranb |Its      | /ɹɶnb/            |
+|Shorba|Yours    | /sθɔɹbɶ/          |
+|Slomp |Ours     | /slɔmp            |
+|Xlom  |Theirs   | /kslɔm/           |
